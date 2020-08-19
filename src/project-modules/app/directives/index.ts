@@ -1,0 +1,1 @@
+export * from './custom-mat-table-cell.directive';
